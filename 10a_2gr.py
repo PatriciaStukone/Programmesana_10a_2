@@ -21,7 +21,7 @@ print(5+6)
 10 Orlova Sofija
 
 11 Stukone Patrîcija
-
+print(16+1)
 12 Tûcis Òikita
 
 13 Zakrevskis Òikita
